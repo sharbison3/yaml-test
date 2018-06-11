@@ -1,0 +1,8 @@
+overrides:
+  'thud-32': 
+    private: true
+    description: "The replacement description."
+  'bar-02':
+    private: true
+    display_name: "Bar"
+
